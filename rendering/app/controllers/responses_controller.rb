@@ -3,7 +3,7 @@ class ResponsesController < ApplicationController
 
   # for each of the controller actions,
   # render the data according to the name of the action
-  def plain
+  def plai
     data = "Early bird gets the worm. But cookie taste better than worm. So me sleep in. - Cookie Monster"
   end
 
